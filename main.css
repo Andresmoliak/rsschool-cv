@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+}
+.container{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    height: 20vh;
+    background-color: aqua;
+
+}
+nav{
+    background-color: brown;
+}
+main{
+    display: flex;
+    width: 100%;
+
+    min-height: 60vh;
+}
+nav{
+    background-color: green;
+}aside{
+    background-color: blue;
+}
+aside{
+    background-color: black;
+}
+footer{
+    background-color: aqua;
+    height: 20vh;
+}
